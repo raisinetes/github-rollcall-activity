@@ -120,7 +120,6 @@ Name, Organization, and (optionally) Contact Info
 * Razvan Alex. Mezei, Saint Martin's University
   * On GitHub: rmezei
   * On EMail: mezei_razvan@yahoo.com
-  * On IRC: AlexMezei
 
 * Samuel A. Rebelsky, Grinnell College
   * On GitHub: rebelsky
